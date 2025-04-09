@@ -8,6 +8,7 @@
 #include <set>
 #include <map>
 #include <utility>
+#include <bitset>
 
 using namespace std;
 
