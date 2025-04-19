@@ -2,6 +2,7 @@
 
 if [ $# -ne 2 ]; then
   echo "Usage: $0 <problemID> <problemURL>"
+  exit 1
 fi
 
 ID=$1
