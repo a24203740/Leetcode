@@ -1,5 +1,7 @@
 #include <iostream>
 #include <queue>
+#include <array>
+#include <list>
 #include <string>
 #include <vector>
 #include <algorithm>
